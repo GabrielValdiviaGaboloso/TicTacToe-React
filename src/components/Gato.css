@@ -1,0 +1,39 @@
+
+
+.celda{
+  font-size: 40px;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+}
+
+
+.celda1{
+  border-left: 1px solid black ;
+  border-right: 1px solid black;
+}
+
+.celda3{
+  border-top: 1px solid black;
+}
+.celda4{
+  border: 1px solid black;
+}
+.celda5{
+  border-top:1px solid black ;
+}
+.celda6{
+  border-top: 1px solid black;
+}
+.celda7{
+  border-left:1px solid black ;
+}
+.celda8{
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+
+
+
+
+
